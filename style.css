@@ -1,16 +1,9 @@
 ul li{
     display: block;
 }
-img{
+div img{
     width: 100px;
     height: 100px;}
-nav{
+nav ul{
     width: 100%;
-}
-div{
-    width:70%
-}
-div img{
-    border: 20px;
-    margin: 10px;
 }
