@@ -1,7 +1,19 @@
+<<<<<<< HEAD
 ul li{
     display: flex;
 }
 img{
     width: 100px;
     height: 100px;
+=======
+nav{
+    width: 100%;
+}
+div{
+    width:70%
+}
+div img{
+    border: 20px;
+    margin: 10px;
+>>>>>>> master
 }
