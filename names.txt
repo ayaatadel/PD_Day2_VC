@@ -1,6 +1,10 @@
+<<<<<<< HEAD
+
+=======
 ===============
 Nada gamal hathout
 ===============
+>>>>>>> 8682217ff11bdd9fa0f1f67baede67ae28ae9b83
 Shimaa Ali Aglan
 Safiya Kamal
 Gehad mostafa
@@ -114,7 +118,22 @@ Ahmed Abu-Almagd
 
 
 
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+=======
 Salem Gamal
+>>>>>>> 8682217ff11bdd9fa0f1f67baede67ae28ae9b83
 =======================
 Mostafa Murad 
 =======
@@ -134,4 +153,15 @@ Aya Abdellatif Elzoghby
 ======================
 mohamed abotaleb
 >>>>>>> 12174742e9867a658a0fd2e2c6f01ecdd0230873
+<<<<<<< HEAD
+
+
+=======
 >>>>>>> 7a4926e1ce3a0a6ce0416dc402f9fc226f24286c
+>>>>>>> 8682217ff11bdd9fa0f1f67baede67ae28ae9b83
+
+
+*************
+Fatma ALi
+
+*****************
